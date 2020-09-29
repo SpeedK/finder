@@ -2,7 +2,7 @@ import sys
 import urllib.request
 import json
 import time
-from playsound import playsound
+#from playsound import playsound
 from multiprocessing.dummy import Pool as ThreadPool
 from tqdm import *
 from multiprocessing import Pool
