@@ -17,7 +17,7 @@ sound_name='strilliamo.wav'
 #<pages> is proportional to the number of popular streams to check. normally 1 page = 10 streamers
 
 #example1 py finder.py ranoblinoidepensante 10
-#example2 py finder.py ranoblinoidepensante,enkfull 15
+#example2 py finder.py ranoblinoidepensante,enkk 15
 
 if(len(sys.argv)>2):
     usernames=sys.argv[1].lower()
